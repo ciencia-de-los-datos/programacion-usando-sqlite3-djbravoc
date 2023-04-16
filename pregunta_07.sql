@@ -41,5 +41,9 @@
 --  11  C  19  570.43  400  2019-04-12  0.48  FBEE
 --  12  C  24  482.32  300  2019-05-03  0.11  CCCE
 -- 
---  >>> Escriba su codigo a partir de este punto <<<
+--  >>> Escriba su codigo a partir de este punto <<
 --
+SELECT *
+FROM tbl1
+WHERE tbl1.K0 <> "A" AND tbl1.K0 <> "B" AND tbl1.c13 <> 200 AND tbl1.c13 <> 900
+ORDER BY c14 ASC;
