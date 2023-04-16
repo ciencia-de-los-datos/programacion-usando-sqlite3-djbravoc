@@ -15,6 +15,6 @@
 --     SUM(c12)
 --  0  15137.63
 --
---  >>> Escriba su codigo a partir de este punto <<<
+--  >>> Escriba su codigo a partir de este punto <<
 --
 select SUM(c12) from tbl1
