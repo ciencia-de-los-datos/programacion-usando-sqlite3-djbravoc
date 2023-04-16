@@ -36,7 +36,7 @@
 --     YEAR  CANT
 --  0  2018     6
 --
---  >>> Escriba su codigo a partir de este punto <<<
+--  >>> Escriba su codigo a partir de este punto <<
 -- 
 SELECT COUNT(*)
 FROM tbl1
